@@ -1,8 +1,8 @@
 {
-  "streams": [
+  "posts": [
     {
-      "name": "aaa44",
-      "description": "ddd44",
+      "name": "My first post",
+      "description": "Hi! This is my first post",
       "userId": "116549306356312263073",
       "id": 1
     }
